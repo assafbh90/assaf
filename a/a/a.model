@@ -19,7 +19,7 @@
 <model-identification-field name="Feature" partOfTag="false" value=""/>
 <model-identification-field name="User Story" partOfTag="false" value=""/>
 </model-identification>
-<attribute attr_class="NONE" dependencies="false" description="Combines two concepts: whether an item is valid, and whether a valid item is in stock." iotype="NEITHER" name="ItemStockStatus" type="STRING">
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="ItemStockStatus" type="STRING">
 <value description="A valid item that is in stock" name="validInStock" weight="1"/>
 <value description="A valid item that is not in stock." name="validOutOfStock" weight="1"/>
 <value description="Item is not valid." name="invalid" weight="1"/>
